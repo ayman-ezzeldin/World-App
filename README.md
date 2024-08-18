@@ -1,1 +1,1 @@
-this is the live version for the project using Netlify for deploying : https://main--melodious-crisp-d76c8c.netlify.app/
+this is the live version for the project using Vercel for deploying : https://world-app-henna.vercel.app
